@@ -1,0 +1,13 @@
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\ProjectDomain.dll.config
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\ProjectDomain.dll
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\ProjectDomain.pdb
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\AutoMapper.dll
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\EntityFramework.dll
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\EntityFramework.SqlServer.dll
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\AutoMapper.pdb
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\AutoMapper.xml
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\EntityFramework.xml
+D:\APLSProjct_school_mini-master\ProjectDomain\bin\Debug\EntityFramework.SqlServer.xml
+D:\APLSProjct_school_mini-master\ProjectDomain\obj\Debug\ProjectDomain.dll
+D:\APLSProjct_school_mini-master\ProjectDomain\obj\Debug\ProjectDomain.pdb
+D:\APLSProjct_school_mini-master\ProjectDomain\obj\Debug\APLSProjectDomain.csprojResolveAssemblyReference.cache
